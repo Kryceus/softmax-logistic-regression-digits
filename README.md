@@ -54,38 +54,3 @@ Stable convergence with low final loss
 
 The model achieved strong classification performance despite using a simple linear architecture.
 
-Project Structure
-softmax-logistic-regression-digits/
-│
-├── README.md
-├── logistic_regression_digits.py
-├── logistic_regression_digits.ipynb
-├── requirements.txt
-└── report/
-    └── logistic_regression_report.pdf
-Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/softmax-logistic-regression-digits.git
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the project:
-
-python logistic_regression_digits.py
-Future Improvements
-Adam optimizer
-Cross-validation
-Weighted loss functions
-Neural network comparison
-Vectorised optimisation
-Acknowledgement
-
-ChatGPT was used for theoretical clarification, implementation guidance, and code scaffolding.
-
-License
-
-Educational project.
